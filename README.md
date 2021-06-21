@@ -18,7 +18,7 @@
 
 | Column | Type   | Options     |
 | ------ | ------ | ----------- |
-| name   | stirng | null: false |
+| name   | string | null: false |
 
 ### Association
 
